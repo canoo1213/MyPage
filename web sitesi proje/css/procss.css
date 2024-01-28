@@ -1,0 +1,116 @@
+body{
+    background: url(../img/yeni\ arka\ plan.jpg)
+    
+}
+#kutu{
+    width: 920px;
+    height: 300px;
+    padding: 16px;
+    position: relative;
+    margin: auto;
+    margin-top: 13px;
+    box-shadow: 0 0 10px #000000;
+    border-radius: 0 26px;
+    background: white;
+    cursor: pointer;
+    
+    
+    
+}
+#altkutu{
+    width: 150px;
+    height: 200px;
+    padding: 16px;
+    position: relative;
+    margin: auto;
+    margin-top: 13px;
+    box-shadow: 0 0 10px #000000;
+    border-radius: 0 26px;
+    background: white;
+}
+#resim1{
+   text-align: left;
+   
+}
+#resim2{
+    text-align: right;
+}
+#bilgi{
+    width: 920px;
+    height: 630px;
+    padding: 16px;
+    position: relative;
+    margin: auto;
+    margin-top: 13px;
+    box-shadow: 0 0 10px #000000;
+    border-radius: 0 26px;
+    background: white;
+}
+#social-media
+            {
+                height:48px;
+                position:absolute;
+                top:0;
+                right:0;
+                }
+                .social{
+                    width:48px;
+                    height:48px;
+                    position:relative;
+                    float:right;
+                    margin-left:10px;
+                    transition:all .3s ease-in-out;
+                    cursor:pointer;
+                    
+                    }
+                    .social:hover{
+                        border-radius:0 20px;
+                        box-shadow:0 0 4px #1Aa2A9;
+                        scale: 1.2;
+                        transition: ease 0.35s;
+                        
+                        
+                        }
+#iletişim{
+    height: 4px;
+    position: relative;
+    top: 0;
+    right: 0;
+}
+#bilgi2{
+    width: 920px;
+    height: 180px;
+    padding: 16px;
+    position: relative;
+    margin: auto;
+    margin-top: 13px;
+    box-shadow: 0 0 10px #000000;
+    border-radius: 0 26px;
+    background: white;
+}
+#Hobileri{
+   width: 200px;
+   height: 200px;
+   padding: 16px;
+   position: relative;
+   margin: auto;
+   margin-top: 13px;
+   box-shadow: 0 0 10px #000000;
+   border-radius: 0 26px;
+   background: white;
+   float: left;
+}
+#Fobileri{
+    width: 200px;
+    height: 200px;
+    padding: 16px;
+    position: relative;
+    margin: auto;
+    margin-top: 13px;
+    box-shadow: 0 0 10px #000000;
+    border-radius: 0 26px;
+    background: white;
+    float: right;
+    
+
+}
